@@ -1,7 +1,7 @@
 ﻿/*
 **Developed By : Kyi Saw Win
 **Developed Date : 2023-04-19(Wed)
-**History : This code is created to particiate in C# Coding Challange of Iron Software.
+**History : This code is created to participate in C# Coding Challange of Iron Software.
 */
 
 namespace HelloWorld
@@ -98,7 +98,7 @@ namespace HelloWorld
         public static void Main(string[] args)
         {
             //Input your message here.
-            string myMessage = "4433555. 555666#";
+            string myMessage = "7 444 222 55 0633#";
             OldPhonePad(myMessage);
         }
     }
