@@ -1,7 +1,7 @@
 # challenge-iron-software
 Coding Challenge from Iron Software, Thailand
 
-Developed Kyi Saw Win on 2023-04-19(Wed).
+Developed by Kyi Saw Win on 2023-04-19(Wed).
 
 Dear Iron Software,
 
