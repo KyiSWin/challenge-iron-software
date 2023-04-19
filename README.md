@@ -7,8 +7,7 @@ Dear Iron Software,
 
 Please refer and review as the following.
 
-1. Design: OKPToText_Design.xlsx
-2. Coding: OKPToText.cs
-3. Test Spec and Test Execution: OKPToText_UnitTesting.xlsx
+1. Coding: OKPToText.cs
+2. Test Spec and Test Execution: OKPToText_UnitTesting.xlsx
 
 Hope to hear from you soon!
